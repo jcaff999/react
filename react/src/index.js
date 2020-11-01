@@ -5,7 +5,8 @@ import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import Signin from './components/Signin';
 import Signup from './components/Signup';
 import Submission from './components/Submission';
-import BlogCom from './components/BlogCom';
+import BlogCom from './components/BlogCom'; 
+
 
 const App = () => (
   <Router>
